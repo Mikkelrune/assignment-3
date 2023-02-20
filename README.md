@@ -8,4 +8,4 @@ Assignment for BDS
 
 # 2. Zero Shot Classification.  The method here is the model classifies the data into different labels. The term "zero-shot" refers to the fact that the model can classify instances into classes it has never seen before, without being trained on any examples of those classes. Reminder (to increase the accuracy find better dataset) pretty bad accuracy in the current ZSC
 
-# 3. The last approach is builind a question answering model. A Question Answering (QA) model is a type of machine learning model that is designed to automatically answer questions posed in natural language. In our case we get pretty bad resultats because of the data we are using.
+# 3. The last approach is built in question answering model. A Question Answering (QA) model is a type of machine learning model that is designed to automatically answer questions posed in natural language. In our case we get pretty bad resultats because of the data we are using.
